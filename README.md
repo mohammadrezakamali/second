@@ -1,10 +1,10 @@
-#My project is Minesweeper and it is for ITP
+# My project is Minesweeper and it is for ITP
 
 System support:
 
 win 10 & win 11
 
-#Installation
+# Installation
 
 1-clone the directory
 
@@ -12,7 +12,7 @@ win 10 & win 11
 
 3-compile the main.cpp file
 
-#Features
+# Features
 
 1-Game save & Game load for five time
 
